@@ -9,7 +9,7 @@ This list contains an overview of deadlines for activities of interest to underg
 - When dates are known, the current deadline is available. 😸 Tip: double-check the year in the date! Deadlines from past years stick around until new dates are published to aid long-term planning.
 - Your fellow students are responsible for keeping this list up-to-date.
 
-> **Key** 
+> ### Key
 > - (C) conference, workshop, or networking event 
 > - (S) summer support/stipends
 
