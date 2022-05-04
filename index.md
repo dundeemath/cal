@@ -1,7 +1,7 @@
 ## Dundee Mathematics Undergraduate Deadlines Calendar 
 
 ### About
-This list contains an overview of deadlines for activities of interest to undergraduate mathematics and statistics students at the University of Dundee. These activities include external applications for student support and undergraduate workshops/conferences.
+This list contains an overview of deadlines for activities of interest to undergraduate mathematics and statistics students at the University of Dundee. These activities include external applications for student support and to register to participate in undergraduate workshops/conferences.
 
 ### Notes
 - Dates are listed in YYYY-MM-DD format. 
@@ -21,7 +21,7 @@ This list contains an overview of deadlines for activities of interest to underg
 
 ## March
 
-- Submission 2021-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use summer 2021 (S)
+- Submission 2021-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2021 (S)
 
 ## April
 
@@ -46,7 +46,7 @@ This list contains an overview of deadlines for activities of interest to underg
 
 ## November
 
-- Submission 2021-11-mid, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for the *9th HLF 18-23 September 2022* in Heidelberg, Germany (C)
+- Submission 2021-11-mid (⚠️ approx 12 month lead time), [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) for the *9th HLF 18-23 September 2022* in Heidelberg, Germany (C) 
 
 
 ## December
