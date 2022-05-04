@@ -1,10 +1,48 @@
-## Welcome to GitHub Pages
+# Welcome to the Dundee Maths Deadlines Calendar 
 
-You can use the [editor on GitHub](https://github.com/ejhall/cal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This list contains an overview of deadlines for activities that might interest undergraduate mathematics and statistics students at the University of Dundee. These activities include external applications for student support and undergraduate workshops/conferences.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Notes
+- The dates are listed in YYYY-MM-DD format. 
+- Remember that many applications may require letters of reference or input from academic staff that must be saught **in advance** of the submission deadline to make a successful and competitive application. 😸 Tip: plan one month's lead time. 
+- When dates are known, the current deadline is available. 😸 Tip: double-check the year in the date! Deadlines from past years stick around until new dates are published to aid long-term planning.
+- Your fellow students are responsible for keeping this list up-to-date. 
 
-### Markdown
+### Key 
+- (C) conference, workshop, or networking event 
+- (S) summer support/stipends
+
+## January
+
+## February
+
+## March
+
+- Submission 2021-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use summer 2021 (S)
+
+## April
+
+## May ⭐
+
+## June
+
+## July
+
+## August
+
+## September
+
+## October
+
+## November
+
+- Submission 2021-11-mid, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for the *9th HLF 18-23 September 2022* in Heidelberg, Germany (C)
+
+## December
+
+
+
+## Editing / publishing markdown 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,12 +63,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ejhall/cal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
