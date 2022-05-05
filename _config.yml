@@ -11,14 +11,4 @@ title       : Undergraduate Mathematics Deadlines Calendar
 ################################
 
 theme: jekyll-theme-minimal
-permalink   : /:title/
-logo:
 show_downloads: false
-
-# Navigation Menus
-header_navigation:
-  - title: Notes
-    url: /notes/
-
-  - title: Contact
-    url: mailto:you@example.com
