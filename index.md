@@ -11,7 +11,7 @@
 
 ## March
 
-- Submit by 2022-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022 [`(S)`](#key)
+- Submit interest to UoD Maths Academic Lead by 2022-02-15, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022 [`(S)`](#key)
 
 ## April
 
@@ -46,6 +46,8 @@
 
 ## December
 
+- Submit interest to UoD Maths Academic Lead by 2021-12-15, [Carnegie PhD Scholarships](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/) for course start 2022-09 [`(P)`](#key)
+
 ---
 
 # Rolling deadlines 🎢
@@ -54,8 +56,9 @@
 
 ---
 
-### Key 🔑
+### Key 🔑 {#key}
 - (C) conference, workshop, or networking event 
+- (P) funding for postgraduate studies
 - (S) summer support/stipends
 - (V) virtual/online
 
