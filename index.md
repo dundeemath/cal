@@ -1,5 +1,4 @@
-# Deadlines by month 📆
-
+# 📆 Deadlines by month
 ## January
 
 - [Carnegie Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/) for use between 2022-05 and 2022-08; supervisor must submit internally for costing by 2022-01-17 (application deadline 2022-01-31 ⚠️ including reference) [`(S)`](#key)
@@ -49,19 +48,19 @@
 
 ---
 
-# Rolling deadlines 🎢
+# 🎢 Rolling deadlines
 
 - [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.lms.ac.uk/events/ICMS-LMS-UKMC), held three times annually [`(C)(V)`](#key)
 
 ---
 
-### Key 🔑
+### 🔑 Key
 - (C) conference, workshop, or networking event 
 - (P) funding for postgraduate studies
 - (S) summer support/stipends
 - (V) virtual/online
 
-### Notes 📄
+### 📄 Notes
 - Dates are listed in YYYY-MM-DD format (ISO 8601). 
 - Remember that many applications require letters of reference or input from academic staff that must be saught **in advance** of the submission deadline to make a successful and competitive application. 😸 *Tip: plan one month's lead time.* 
 - Some applications must be submitted for **internal** review before the schemes posted deadline. 
