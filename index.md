@@ -2,20 +2,19 @@
 
 ## January
 
-- [Carnegie Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/) for use between 2022-05 and 2022-08; submit by 2022-01-31 [`(S)`](#key)
+- [Carnegie Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/) for use between 2022-05 and 2022-08; supervisor must submit internally for costing by 2022-01-17 (application deadline 2022-01-31 ⚠️ including reference) [`(S)`](#key)
 
 ## February
 
-- [LMS Undergraduate Research Bursaries in Mathematics](https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications) for use during summer 2022; submit by 2022-02-01 [`(S)`](#key)
+- [LMS Undergraduate Research Bursaries in Mathematics](https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications) for use during summer 2022; supervisor must submit internally for costing by 2022-01-18 (application deadline 2022-02-01) [`(S)`](#key)
+- [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022; you must submit interest to [Mathematics Academic Lead](https://www.dundee.ac.uk/mathematics/people?f%5B0%5D=staff_category_people%3A5351) by 2022-02-10 (application deadline 2022-03-10) [`(S)`](#key)
 - [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.icms.org.uk/events/2022/icms-lms-uk-mathematics-undergraduate-colloquium) on 2022-02-14; register by 2022-02-21 [`(C)(V)`](#key)
 
 ## March
 
-- [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022; submit interest to [Mathematics Academic Lead](https://www.dundee.ac.uk/mathematics/people?f%5B0%5D=staff_category_people%3A5351) by 2022-02-15  [`(S)`](#key)
-
 ## April
 
-- [RSE Cormack Undergraduate Vacation Scholarships](https://rse.org.uk/funding-collaboration/award/rse-cormack-undergraduate-vacation-scholarships/) for use during summer 2021; submit by 2021-04-16 [`(S)`](#key)
+- [RSE Cormack Undergraduate Vacation Scholarships](https://rse.org.uk/funding-collaboration/award/rse-cormack-undergraduate-vacation-scholarships/) for use during summer 2021; supervisor must submit internally for costing by 2021-04-02 (application deadline 2021-04-16) [`(S)`](#key)
 
 
 ## May
