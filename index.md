@@ -1,4 +1,4 @@
-# Deadlines by month
+# Deadlines by month 📆
 
 ## January
 
@@ -40,15 +40,15 @@
 
 ---
 
-# Rolling deadlines
+# Rolling deadlines 🎢
 
 ---
 
-### Key
+### Key 🔑
 - (C) conference, workshop, or networking event 
 - (S) summer support/stipends
 
-### Notes
+### Notes 📄
 - Dates are listed in YYYY-MM-DD format (ISO 8601). 
 - Remember that many applications require letters of reference or input from academic staff that must be saught **in advance** of the submission deadline to make a successful and competitive application. 😸 *Tip: plan one month's lead time.* 
 - When dates are known, the current deadline is available. 😸 *Tip: double-check the year in the date!* Deadlines from past years stick around until new dates are published to aid long-term planning.
