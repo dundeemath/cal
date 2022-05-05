@@ -2,7 +2,7 @@
 # Site Settings
 ################################
 lang        : "en"
-logo        : assets/img/logo.png
+logo        : /assets/img/logo.png
 title       : Undergraduate Mathematics Deadlines Calendar
 
 
@@ -17,8 +17,8 @@ show_downloads: false
 
 # Navigation Menus
 header_navigation:
-  - title: About
-    url: /about/
+  - title: Notes
+    url: /notes/
 
   - title: Contact
     url: mailto:you@example.com
