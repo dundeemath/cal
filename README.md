@@ -4,4 +4,4 @@ The file `index.md` contains a list of deadlines for activities that might inter
 
 The `index.md` file is parsed as a GitHub page and is available at: [dundeemath.github.io/cal](dundeemath.github.io/cal).
 
-To contribute, please contact Eric Hall <ehall001@dundee.ac.uk>
+To contribute, please contact Eric Hall <ehall001@dundee.ac.uk>.
