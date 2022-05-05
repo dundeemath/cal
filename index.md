@@ -2,20 +2,20 @@
 
 ## January
 
-- Submission 2022-01-31, [Carnegie Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/) for use between 2022-05 and 2022-08 [`(S)`](#key)
+- Submit by 2022-01-31, [Carnegie Vacation Scholarships](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/) for use between 2022-05 and 2022-08 [`(S)`](#key)
 
 ## February
 
-- Submission 2022-02-01, [LMS Undergraduate Research Bursaries in Mathematics](https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications) for use during summer 2022 [`(S)`](#key)
+- Submit by 2022-02-01, [LMS Undergraduate Research Bursaries in Mathematics](https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications) for use during summer 2022 [`(S)`](#key)
 - Register by 2022-02-21, [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.icms.org.uk/events/2022/icms-lms-uk-mathematics-undergraduate-colloquium) on 2022-02-14 [`(C)(V)`](#key)
 
 ## March
 
-- Submission 2022-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022 [`(S)`](#key)
+- Submit by 2022-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022 [`(S)`](#key)
 
 ## April
 
-- Submission 2021-04-16, [RSE Cormack Undergraduate Vacation Scholarships](https://rse.org.uk/funding-collaboration/award/rse-cormack-undergraduate-vacation-scholarships/) for use during summer 2021 [`(S)`](#key)
+- Submit by 2021-04-16, [RSE Cormack Undergraduate Vacation Scholarships](https://rse.org.uk/funding-collaboration/award/rse-cormack-undergraduate-vacation-scholarships/) for use during summer 2021 [`(S)`](#key)
 
 
 ## May
