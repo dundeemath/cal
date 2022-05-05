@@ -20,7 +20,7 @@
 
 ## May
 
-- Register by 2022-05-16, [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.icms.org.uk/events/2022/icms-lms-uk-mathematics-undergraduate-colloquium) on 2022-05-18 [`(C)(V)`](#key) :star:
+- Register by 2022-05-16, [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.icms.org.uk/events/2022/icms-lms-uk-mathematics-undergraduate-colloquium) on 2022-05-18 [`(C)(V)`](#key) ⭐
 
 
 ## June
