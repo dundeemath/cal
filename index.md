@@ -4,16 +4,19 @@
 
 ## February
 
-- Submission 2022-02-01, [LMS Undergraduate Research Bursaries in Mathematics](https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications) for use during summer 2022 [(S)](#key)
+- Submission 2022-02-01, [LMS Undergraduate Research Bursaries in Mathematics](https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications) for use during summer 2022 [`(S)`](#key)
+- Register by 2022-02-21, [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.lms.ac.uk/events/ICMS-LMS-UKMC) on 2022-02-14 [`(C)(V)`](#key)
 
 ## March
 
-- Submission 2022-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022 [(S)](#key)
+- Submission 2022-03-10, [EMS Student Research Bursaries](http://www.ems.ac.uk/funding/ems-student-research-bursaries) for use during summer 2022 [`(S)`](#key)
 
 ## April
 
 
 ## May
+
+- Register by 2022-05-16, [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.lms.ac.uk/events/ICMS-LMS-UKMC) on 2022-05-18 [`(C)(V)`](#key) :star:
 
 
 ## June
@@ -33,7 +36,7 @@
 
 ## November
 
-- Submission 2021-11 (⚠️ approx 12 month lead time), [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) attendance/support application for the *9th HLF* in 2022-09 [(C)](#key) 
+- Submission 2021-11 (⚠️ approx 12 month lead time), [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/) attendance/support application for the *9th HLF* in 2022-09 [`(C)`](#key) 
 
 
 ## December
@@ -42,11 +45,14 @@
 
 # Rolling deadlines 🎢
 
+- [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.lms.ac.uk/events/ICMS-LMS-UKMC), held three times annually [`(C)(V)`](#key)
+
 ---
 
 ### Key 🔑
 - (C) conference, workshop, or networking event 
 - (S) summer support/stipends
+- (V) virtual/online
 
 ### Notes 📄
 - Dates are listed in YYYY-MM-DD format (ISO 8601). 
