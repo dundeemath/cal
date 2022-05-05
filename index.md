@@ -1,4 +1,4 @@
-#
+# Deadlines by month
 
 ## January
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Rolling deadlines
+# Rolling deadlines
 
 ---
 
