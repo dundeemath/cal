@@ -55,7 +55,7 @@
 
 ---
 
-### Key 🔑 {#key}
+### Key 🔑
 - (C) conference, workshop, or networking event 
 - (P) funding for postgraduate studies
 - (S) summer support/stipends
