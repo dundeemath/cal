@@ -63,6 +63,6 @@
 ### 📄 Notes
 - Dates are listed in YYYY-MM-DD format (ISO 8601). 
 - Remember that many applications require letters of reference or input from academic staff that must be saught **in advance** of the submission deadline to make a successful and competitive application. 😸 *Tip: plan one month's lead time.* 
-- Some applications must be submitted for **internal** review before the schemes posted deadline. 
+- Some applications must be submitted for **internal** review before the funder's posted deadline. 
 - When dates are known, the current deadline is available. 😸 *Tip: double-check the year in the date!* Deadlines from past years stick around until new dates are published to aid long-term planning.
 - Your fellow students are responsible for keeping this list up-to-date.
