@@ -1,3 +1,24 @@
+################################
+# Site Settings
+################################
+lang        : "en"
+logo        : logo.png
+title       : Dundee Undergraduate Mathematics Deadlines Calendar
+
+
+################################
+# Theme Settings
+################################
+
 theme: jekyll-theme-minimal
-logo: logo.png
+permalink   : /:title/
+logo:
 show_downloads: false
+
+# Navigation Menus
+header_navigation:
+  - title: About
+    url: /about/
+
+  - title: Contact
+    url: mailto:you@example.com
