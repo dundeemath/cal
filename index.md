@@ -31,9 +31,10 @@
 
 
 ## September
-
+- [Reaching Higher Maths]() AY2022-23; register interest by 2022-09-15 [`(S)`](#-key)
 
 ## October
+- [EMS Undergraduate Bursary: Pathways to Teaching](https://www.ems.ac.uk/funding/ems-undergraduate-bursary-pathways-teaching) AY2022-23; apply by 2022-10-07 17:00 [`(S)`](#-key)
 
 
 ## November
