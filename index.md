@@ -18,7 +18,7 @@
 
 ## May
 
-- [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.icms.org.uk/events/2022/icms-lms-uk-mathematics-undergraduate-colloquium) on 2022-05-18; register by 2022-05-16 [`(C)(V)`](#-key) ⭐
+- [ICMS/LMS UK Undergraduate Mathematics Colloquia](https://www.icms.org.uk/events/2022/icms-lms-uk-mathematics-undergraduate-colloquium) on 2022-05-18; register by 2022-05-16 [`(C)(V)`](#-key)
 
 
 ## June
@@ -34,7 +34,7 @@
 - [Reaching Higher Maths]() AY2022-23; register interest by 2022-09-15 [`(S)`](#-key)
 
 ## October
-- [EMS Undergraduate Bursary: Pathways to Teaching](https://www.ems.ac.uk/funding/ems-undergraduate-bursary-pathways-teaching) AY2022-23; apply by 2022-10-07 17:00 [`(S)`](#-key)
+- [EMS Undergraduate Bursary: Pathways to Teaching](https://www.ems.ac.uk/funding/ems-undergraduate-bursary-pathways-teaching) AY2022-23; apply by 2022-10-07 17:00 [`(S)`](#-key) ⭐
 
 
 ## November
